@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">- Systems analyst<br>- Java Developer<br>- Software Tester</p>
+<p align="left"> Systems Analyst | Java Developer | Software Tester </p>
 
 ###
 
